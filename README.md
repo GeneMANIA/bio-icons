@@ -3,6 +3,18 @@ model-organism-icons
 
 This is a set of icons for representing [model organisms](http://en.wikipedia.org/wiki/Model_organism).  The icons can be used as plain SVG files or an icon font.
 
+A demo of the icon font can be found in `font-icons/demo`.
+
+The icon set currently includes:
+
+* `.org-cells` : a group of cells : Saccharomyces cerevisiae, bacteria, etc
+* `.org-fish` : a fish : Danio rerio etc
+* `.org-fly` : a fly : Drosophila melanogaster etc
+* `.org-human` : a human : Homo sapiens
+* `.org-mouse` : a mouse on its hind legs : Mus musculus or similar rodents
+* `.org-plant` : a potted plant : Arabidopsis thaliana etc
+* `.org-rat` : a rat on all fours : Rattus norvegicus
+
 
 
 ## Building
