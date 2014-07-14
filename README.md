@@ -9,10 +9,12 @@ The icon set currently includes:
 * `.bio-cells` : a group of cells : Saccharomyces cerevisiae, bacteria, etc
 * `.bio-fish` : a fish : Danio rerio etc
 * `.bio-fly` : a fly : Drosophila melanogaster etc
+* `.bio-helix` : a double helix : DNA, gene, etc
 * `.bio-human` : a human : Homo sapiens
 * `.bio-mouse` : a mouse on its hind legs : Mus musculus or similar rodents
 * `.bio-plant` : a potted plant : Arabidopsis thaliana etc
 * `.bio-rat` : a rat on all fours : Rattus norvegicus
+* `.bio-worm` : a worm : Caenorhabditis elegans etc
 
 
 
@@ -46,6 +48,7 @@ The following icons were used in this project.  Please note that some or all of 
 * `cells` : Beans by giulia bianchi from The Noun Project
 * `fish` : Fish by Jens Tärning from The Noun Project
 * `fly` : Fly by Felipe Perucho from The Noun Project
+* `helix` : DNA by Gustav Salomonsson from The Noun Project
 * `human` : Vitruvian Man by Budi Hartono from The Noun Project
 * `mouse` : Public Domain from The Noun Project
 * `plant` : Plant by Cassie McKown from The Noun Project
