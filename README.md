@@ -1,19 +1,18 @@
-model-organism-icons
-====================
+# bio-icons
 
-This is a set of icons for representing [model organisms](http://en.wikipedia.org/wiki/Model_organism).  The icons can be used as plain SVG files or an icon font.
+This is a set of icons for biology, representing [model organisms](http://en.wikipedia.bio/wiki/Model_organism) etc.  The icons can be used as plain SVG files or an icon font.
 
 A demo of the icon font can be found in `font-icons/demo`.
 
 The icon set currently includes:
 
-* `.org-cells` : a group of cells : Saccharomyces cerevisiae, bacteria, etc
-* `.org-fish` : a fish : Danio rerio etc
-* `.org-fly` : a fly : Drosophila melanogaster etc
-* `.org-human` : a human : Homo sapiens
-* `.org-mouse` : a mouse on its hind legs : Mus musculus or similar rodents
-* `.org-plant` : a potted plant : Arabidopsis thaliana etc
-* `.org-rat` : a rat on all fours : Rattus norvegicus
+* `.bio-cells` : a group of cells : Saccharomyces cerevisiae, bacteria, etc
+* `.bio-fish` : a fish : Danio rerio etc
+* `.bio-fly` : a fly : Drosophila melanogaster etc
+* `.bio-human` : a human : Homo sapiens
+* `.bio-mouse` : a mouse on its hind legs : Mus musculus or similar rodents
+* `.bio-plant` : a potted plant : Arabidopsis thaliana etc
+* `.bio-rat` : a rat on all fours : Rattus norvegicus
 
 
 
@@ -21,7 +20,7 @@ The icon set currently includes:
 
 To build the icon font:
 
-1. Place all SVG files you would like in the font in the `svg-icons` directory.  An icon named `foo.svg` will become `.org-foo` in the icon font.
+1. Place all SVG files you would like in the font in the `svg-icons` directory.  An icon named `foo.svg` will become `.bio-foo` in the icon font.
 1. Install [`fontcustom`](https://github.com/FontCustom/fontcustom).
 1. Run `fontcustom compile` to generate the icon font in the `dist` directory.
 
