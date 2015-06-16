@@ -1,57 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="Livello_1"
-   x="0px"
-   y="0px"
-   width="100px"
-   height="100px"
-   viewBox="0 0 100 100"
-   enable-background="new 0 0 100 100"
-   xml:space="preserve"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="yeast.svg"><metadata
-     id="metadata9"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs7" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="986"
-     inkscape:window-height="666"
-     id="namedview5"
-     showgrid="false"
-     inkscape:zoom="2.36"
-     inkscape:cx="117.79661"
-     inkscape:cy="50"
-     inkscape:window-x="673"
-     inkscape:window-y="319"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="Livello_1" /><path
-     d="m 72.733458,53.039701 c 6.637776,-51.7592982 3.318881,-25.879648 0,0 z M 85.504747,41.468918 c 0,0 -14.886004,7.645182 -19.938089,-3.625406 0,0 -3.022022,-9.660533 11.270002,-14.000749 0,0 13.418339,-3.006548 18.799214,3.113788 0.0011,0.0012 5.847526,9.608244 -10.131127,14.512367 z"
-     id="path3"
-     inkscape:connector-curvature="0"
-     style="fill:#231f20"
-     sodipodi:nodetypes="ccccccc"
-     inkscape:transform-center-x="3.4915888"
-     inkscape:transform-center-y="-8.9535266" /><path
-     sodipodi:nodetypes="ccccccc"
-     style="fill:#231f20"
-     inkscape:connector-curvature="0"
-     id="path3357"
-     d="m 66.036122,64.57062 c 0,0 27.873156,-37.538982 -25.36952,-35.309006 0,0 -29.713687,4.309795 -33.5403033,35.309006 0,0 8.0510963,26.980148 29.0085313,16.951648 0,-0.0031 20.718064,-3.753898 29.901292,-16.951648 z M 8.1484562,25.977352 c -10.9202123,64.993389 -5.4601045,32.496693 0,0 z" /></svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<path fill="#231F20" d="M18.826,60.222c0,0-0.167-0.124-0.447-0.372c-0.28-0.247-0.671-0.615-1.121-1.102
+	c-0.448-0.485-0.953-1.088-1.458-1.805c-0.506-0.717-1.012-1.548-1.464-2.49c-0.452-0.939-0.85-1.99-1.136-3.146
+	c-0.288-1.157-0.464-2.419-0.476-3.785c-0.011-1.365,0.144-2.833,0.52-4.398c0.376-1.565,0.974-3.228,1.848-4.987
+	c0,0,0.127-0.26,0.402-0.701c0.275-0.441,0.698-1.063,1.291-1.785c0.592-0.723,1.353-1.545,2.304-2.39
+	c0.951-0.844,2.091-1.709,3.443-2.516c1.353-0.807,2.915-1.554,4.709-2.163c1.794-0.609,3.821-1.08,6.1-1.332
+	c2.279-0.252,4.811-0.286,7.616-0.022c2.806,0.264,5.885,0.827,9.259,1.767c0,0,0.279,0.125,0.771,0.365
+	c0.492,0.239,1.199,0.593,2.055,1.051c0.855,0.458,1.861,1.02,2.95,1.674c1.09,0.655,2.265,1.404,3.458,2.235
+	c1.194,0.832,2.285,1.982,3.27,3.323c0.985,1.342,1.864,2.874,2.634,4.468c1.188,2.799-0.127,5.09-1.286,6.949
+	c-1.158,1.859-2.162,3.289-0.353,4.364c0,0,8.652-2.075,12.994-1.3c4.34,0.776,8.089,4.545,10.519,6.446
+	c3.054,3.562,3.224,4.92,2.885,7.805c0.485,2.678-1.216,5.169-2.364,6.302c-1.147,1.133-2.748,1.574-4.276,2.085
+	c-1.532,0.509-4.01,0.579-8.957-0.049c-4.946-0.627-8.956-3.778-13.402-6.277c-2.206-3.393-0.43-7.169-4.593-6.98
+	c0.001,0-11.22,3.254-13.698,3.662c-2.48,0.408-5.116,0.792-5.742,0.692c-0.626-0.102-2.254-0.133-3.956-0.2
+	c-1.701-0.066-3.476-0.167-4.396-0.404c-0.919-0.238-1.872-0.514-2.814-0.832c-0.942-0.319-1.874-0.681-2.754-1.09
+	c-0.881-0.41-1.709-0.868-2.445-1.375C19.978,61.4,19.334,60.839,18.826,60.222z"/>
+</svg>

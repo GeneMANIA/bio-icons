@@ -16,7 +16,7 @@ The icon set currently includes:
 * `.bio-rat` : a rat on all fours : Rattus norvegicus
 * `.bio-worm` : a worm : Caenorhabditis elegans etc
 * `.bio-yeast` : two budding yeast cells : Saccharomyces cerevisiae
-* `.bio-yeasts` : many budding yeast cells : Saccharomyces cerevisiae
+* * `.bio-yeasts` : many budding yeast cells : Saccharomyces cerevisiae
 
 
 
@@ -56,5 +56,4 @@ The following icons were used in this project.  Please note that some or all of 
 * `plant` : Plant by Cassie McKown from The Noun Project
 * `rat` : Rat by Francisca Arévalo from The Noun Project
 * `worm` : Fishing Hook by Stephen Hemenway from The Noun Project
-* `yeast` : Beans by giulia bianchi from The Noun Project
-* `yeasts` : Beans by giulia bianchi from The Noun Project
+* `yeast` & ``yeasts` : Beans by giulia bianchi from The Noun Project
